@@ -3,6 +3,11 @@ UNET GEDI Forest Canopy Height , AGB Estimation
 
 An UNET probabilistic deep learning model for estimating  forest structure data such as canopy height/above ground biomass from sentinel 1 , sentinel 2 and GEDI data
 
+Published in: 2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)
+DOI : 10.1109/M2GARSS57310.2024.10537362
+
+Paper Link : https://ieeexplore.ieee.org/abstract/document/10537362
+
 Full Documenatation
 ==============================
 https://rsongphon.github.io/Satellite-Based-AGB-CHM-Estimation-Model-
