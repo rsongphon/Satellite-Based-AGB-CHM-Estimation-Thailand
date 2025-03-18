@@ -1,4 +1,4 @@
-UNET GEDI Forest Canopy Height , AGB Estimation
+A Deep Learning Approach with Uncertainty Estimation to Assess Aboveground Biomass Mapping of Tropical Rainforest in Thailand
 ==============================
 
 An UNET probabilistic deep learning model for estimating  forest structure data such as canopy height/above ground biomass from sentinel 1 , sentinel 2 and GEDI data
